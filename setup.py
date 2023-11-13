@@ -8,5 +8,5 @@ setup(
     description="a math quiz in python",
     packages=find_packages(),
     python_requires=">3",
-    install_requires=["numpy","turtles"]
+    install_requires=["random","unittest"]
 )
