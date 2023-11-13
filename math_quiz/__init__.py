@@ -1,1 +1,1 @@
-from.import math_quiz
+from . import math_quiz
